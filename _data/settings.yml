@@ -156,13 +156,20 @@ portfolio-label:
   }
 
 portfolio-items:
-      
+
   - image : "projects/images/ftc-interfaces/item-1.jpg"
     title : "FTC Interfaces"
     tags: "Interface Design"
     url: "projects/FTC-interfaces"
     portfolio-type:
       - type: "interface"
+      
+  - image : "projects/images/illustrations/item-1.jpg"
+    title : "Illustrations Digitales"
+    tags: "Illustration"
+    url: "projects/illustrations"
+    portfolio-type:
+      - type: "illustration" 
       
   - image : "projects/images/radiant/item-1.jpg"
     title : "Radiant Cafe"
