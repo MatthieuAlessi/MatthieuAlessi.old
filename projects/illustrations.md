@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Radiant
-subtitle : A personal exercise of branding
+title:  Illustrations
+subtitle : Exemples d'illustrations digitales
 date:   2020
 image:  item-1.jpg
 tags:   [Illustration]
