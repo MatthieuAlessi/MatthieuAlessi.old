@@ -9,7 +9,7 @@ categories : [Interface Design, UI]
 ---
 ![img1]({{site.baseurl}}/projects/images/pollux/img-3.jpg){:class="mx-auto d-block rounded post-img" :style="clear:both"}
 
-**I have wanted for a while to have a platform where I could post and journal about my personal hobbies of art and illustration, eventually I decided to build this side-project both as an opportunity to archive my endeavours and as a way to build up my webdesign skills with the Wordpress CMS and hone my HTML/CSS abilites.  **
+**I have wanted for a while to have a platform where I could post and journal about my personal hobbies of art and illustration, eventually I decided to build this side-project both as an opportunity to archive my endeavours and as a way to build up my webdesign skills with the Wordpress CMS and hone my HTML/CSS abilites. **
 
 <div style="clear:both; max-width:75%" class="paragraph">I started by designing a logo and defining a visual identity around it, being attracted to the imagery of Mercury. I took the liberty of using the name of Pollux, a star of the Gemini constellation, and Mercury who is the ruler of Gemini in astrology and mythology to build the logo and the choose the name.</div>
 
