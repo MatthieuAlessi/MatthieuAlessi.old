@@ -157,6 +157,15 @@ portfolio-label:
 
 portfolio-items:
 
+  - image : "projects/images/pollux/item-1.jpg"
+    title : "Art of Pollux"
+    tags: "Web Design - Illustration"
+    url: "projects/pollux"
+    portfolio-type:
+      - type: "interface"
+      - type: "illustration"
+      - type: "graphic design"
+
   - image : "projects/images/ftc-interfaces/item-1.jpg"
     title : "FTC Interfaces"
     tags: "Interface Design"
