@@ -172,13 +172,7 @@ portfolio-items:
     url: "projects/FTC-interfaces"
     portfolio-type:
       - type: "interface"
-      
-  - image : "projects/images/illustrations/item-1.jpg"
-    title : "Digital Illustrations"
-    tags: "Illustration"
-    url: "projects/illustrations"
-    portfolio-type:
-      - type: "illustration" 
+
       
   - image : "projects/images/radiant/item-1.jpg"
     title : "Radiant Cafe"
@@ -202,8 +196,14 @@ portfolio-items:
     url: "projects/spartan-race-logo"
     portfolio-type:
       - type: "graphic design"
+            
+  - image : "projects/images/illustrations/item-1.jpg"
+    title : "Digital Illustrations"
+    tags: "Illustration"
+    url: "projects/illustrations"
+    portfolio-type:
+      - type: "illustration" 
       
-
   - image : "projects/images/musical-player/item-1.jpg"
     title : "Music Player UI"
     tags: "UI Design"
