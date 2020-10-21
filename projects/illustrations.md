@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Illustrations
-subtitle : Exemples d'illustrations digitales réalisées
+subtitle : illustrations showcase
 date:   2018-2020
 image:  item-1.jpg
 tags:   [Illustration]
