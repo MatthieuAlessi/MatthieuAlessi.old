@@ -21,9 +21,7 @@ categories : [Interface Design, UI]
 
 <div style="clear:both; max-width:75%" class="paragraph">I had to tweak the CSS to adapt the responsive settings of the theme to one more suited to my needs, those changes keep the architecture of the original theme which was good, but still allow me to customize it enough for it to be a little different. The Fonts were also changed, which plays a lot in a webdesign visual identity.</div>
 
-![img4]({{site.baseurl}}/projects/images/pollux/img-4.jpg){:class="mx-auto d-block post-img portfolio-col-img" :style="width:60%"}
-
-![img5]({{site.baseurl}}/projects/images/pollux/img-5.jpg){:class="mx-auto d-block post-img portfolio-col-img" :style="width:60%"}
+![img4]({{site.baseurl}}/projects/images/pollux/img-4.jpg){:class="mx-auto d-block rounded post-img" :style="clear:both"}
 
 <div style="clear:both; max-width:75%" class="paragraph">This side-project was a good opportunity to build something that I hope will last for me, it allows me to not only journal and archive my digital illustrations and my tradiotional works, but it is also a great outset into writing and structuring ideas in english.</div>
 
