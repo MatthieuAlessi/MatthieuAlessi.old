@@ -174,7 +174,7 @@ portfolio-items:
       - type: "interface"
       
   - image : "projects/images/illustrations/item-1.jpg"
-    title : "Illustrations Digitales"
+    title : "Digital Illustrations"
     tags: "Illustration"
     url: "projects/illustrations"
     portfolio-type:
