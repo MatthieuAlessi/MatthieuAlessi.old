@@ -23,7 +23,7 @@ categories : [Graphic Design, Branding]
 
 ![img1]({{site.baseurl}}/projects/images/radiant/img-10.jpg){:class="mx-auto d-block post-img" :style="clear:both"}
 
-<div style="clear:both; max-width:75%" class="paragraph">Combining futurism and Japanese iconography, The logo takes the circular and inviting shape from the rising sun. The name also evokes a sense of hope for the next day. Exciting splashes of neon color, and lively illustrations, and unusual remind us of how our senses can light up through positive experiences.</div>
+<div style="clear:both; max-width:75%" class="paragraph">Combining futurism and Japanese iconography, The logo takes the circular and inviting shape from the rising sun. The name also evokes a sense of hope for the next day. Exciting splashes of neon color, and lively illustrations remind us of how our senses can light up through positive experiences.</div>
 
 ![img3]({{site.baseurl}}/projects/images/radiant/img-3.jpg){:class="mx-auto d-block post-img portfolio-col-img"}
 
