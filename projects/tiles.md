@@ -10,7 +10,7 @@ categories : [Interface Design, UI]
 ![img1]({{site.baseurl}}/projects/images/tiles/img-4.jpg){:class="mx-auto d-block rounded post-img" :style="clear:both"}
 
 
-**The mailbox has been ingrained in mids for years, its interactivity hasn't really changed besides new functionalities appearing in order to sort them ans search them directly in the mailbox.**
+**The mailbox has been ingrained in mids for years, its interactivity hasn't really changed besides new functionalities appearing in order to sort them and search them directly in the mailbox.**
 
 
 <div style="clear:both; max-width:75%" class="paragraph">
