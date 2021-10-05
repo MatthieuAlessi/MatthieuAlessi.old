@@ -9,7 +9,7 @@ categories : [Interface Design, UI]
 ---
 ![post-thumb]({{site.baseurl}}/projects/images/morgentime/thumb-1.jpg){:class="img-fluid rounded float-left mr-5 mb-5 overflow-hidden"}
 
-**Information overload is a problem of today directly related to modernity. It can be difficult to find what one is looking for in a sea of articles, videos and images that may not be relevant to what an user seeks. Readers usually seek to learn about current events, whether general or specific to their interests, a good platform should allow them to find topics for conversation, learn or simply take care of themselves. Information doesn't have to be a burden, but it still needs to be personally curated.**
+**Information overload is a problem of today directly related to modernity. It can be difficult to find what one is looking for in a sea of articles, videos and images that may not be relevant to what an user seeks. Readers usually seek to learn about current events, whether general or specific to their interests, a good platform should allow them to find topics for conversation, learn or simply take care of themselves. Information doesn't have to be a burden, but it still needs to be personally curated, as the user should be responsible for what he consumes.**
 
 This personal project aims to design a modular interface for a news feed. Its purpose is to give agency to the user in curating his flow of information and not to be encumbered by noise, thanks to a fully customizable "newspaper" and a feed that adapt to the user's manipulation.
 
