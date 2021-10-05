@@ -29,7 +29,7 @@ categories : [Graphic Design, Branding]
 
 ![img3]({{site.baseurl}}/projects/images/radiant/img-4.jpg){:class="mx-auto d-block post-img portfolio-col-img"}
 
-<div style="clear:both; max-width:75%" class="paragraph">I thought Radiant as an inviting and original place that remains practical, to keep things modern and ease the customer's interaction, I designed an interface used to order. A 3d model was made to have an idea in the layout and organization of the place. The terminals are placed on spots where customers may be likely to stand while finding their way around.</div>
+<div style="clear:both; max-width:75%" class="paragraph">I thought Radiant as an inviting and original place that remains practical, to keep things modern and ease the customer's interaction, I designed an interface used to order. A 3d model was made to have an idea of the place's layout. The terminals are placed on spots where customers may be likely to stand while finding their way around.</div>
 
 ![img1]({{site.baseurl}}/projects/images/radiant/img-1.jpg){:class="mx-auto d-block post-img portfolio-col-img"}
 
