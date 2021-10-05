@@ -2,10 +2,10 @@
 layout: post
 title:  MorgenTime
 subtitle : Giving users the agency to curate information
-date:   2018
+date:   2019
 image:  item-1.jpg
-tags:   [Graphic Design, Branding]
-categories : [Graphic Design, Branding]
+tags:   [Interface Design, UI]
+categories : [Interface Design, UI]
 ---
 ![post-thumb]({{site.baseurl}}/projects/images/morgentime/thumb-1.jpg){:class="img-fluid rounded float-left mr-5 mb-5 overflow-hidden"}
 
