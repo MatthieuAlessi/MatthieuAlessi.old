@@ -62,7 +62,7 @@ It then arrives at the dashboard of the application. This part offers him a cond
 ![img3]({{site.baseurl}}/projects/images/morgentime/img-3.jpg){:class="mx-auto d-block rounded post-img" :style="clear:both"}
 
 <div style="clear:both; max-width:75%" class="paragraph">
-It is possible to create a jpurnal and customize it by selecting the sources and sections that would appear in it and eventually giving a name. 2 display modes are available, a default mode and a log mode that takes a more traditional layout print-inspired.</div>
+It is possible to create a journal and customize it by selecting the sources and sections that would appear in it and eventually giving a name. 2 display modes are available, a default mode and a log mode that takes a more traditional layout print-inspired.</div>
 
 ![img4]({{site.baseurl}}/projects/images/morgentime/img-4.jpg){:class="mx-auto d-block rounded post-img" :style="clear:both"}
 
